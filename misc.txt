@@ -1,8 +1,8 @@
-## Prevent usage of Apple private relay, that bypasses DNS
+# Prevent usage of Apple private relay, that bypasses DNS
 mask.apple-dns.net
 mask.icloud.com
 mask-api.icloud.com
 doh.dns.apple.com
 
-## misc
+# misc
 reports.crashlytics.com

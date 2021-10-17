@@ -6,3 +6,4 @@ doh.dns.apple.com
 
 # misc
 reports.crashlytics.com
+sentry.io

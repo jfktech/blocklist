@@ -5,6 +5,8 @@ dns-nyc.aaflalo.me
 # AdGuard
 dns.adguard.com
 dns-family.adguard.com
+family.adguard-dns.com
+unfiltered.adguard-dns.com
 
 # Alekberg
 dns.alekberg.net
@@ -58,6 +60,7 @@ cloudflare-dns.com
 dns64.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
+dns.cloudflare.com
 
 # Comcast
 doh.xfinity.com
@@ -110,6 +113,9 @@ doh-2.seby.io
 
 # DNS.SB
 doh.dns.sb
+
+# DNS for family
+dns-doh.dnsforfamily.com
 
 # Dyn
 resolver1.dyndnsinternetguide.com
@@ -178,6 +184,9 @@ resolver1-fs.opendns.com
 resolver2-fs.opendns.com
 resolver1.ipv6-sandbox.opendns.com
 resolver2.ipv6-sandbox.opendns.com
+doh.opendns.com
+doh.familyshield.opendns.com
+doh.sandbox.opendns.com/
 
 # OSZX (PumpleX)
 dns.oszx.co
@@ -242,3 +251,6 @@ rumpelsepp.org
 ordns.he.net
 rdns.faelix.net
 adfree.usableprivacy.net
+
+# Yandex
+

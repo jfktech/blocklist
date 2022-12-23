@@ -214,7 +214,7 @@ adblock.ny1.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
 
-# OpenDNS
+# OpenDNS / Cisco Umbrella
 resolver1.opendns.com
 resolver2.opendns.com
 resolver1-fs.opendns.com
@@ -223,7 +223,12 @@ resolver1.ipv6-sandbox.opendns.com
 resolver2.ipv6-sandbox.opendns.com
 doh.opendns.com
 doh.familyshield.opendns.com
-doh.sandbox.opendns.com/
+doh.sandbox.opendns.com
+2.dnscrypt-cert.opendns.com
+doh.umbrella.com
+dns.opendns.com
+familyshield.opendns.com
+sandbox.opendns.com
 
 # OSZX (PumpleX)
 dns.oszx.co

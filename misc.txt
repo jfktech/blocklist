@@ -1,12 +1,12 @@
-# Prevent usage of Apple private relay, that bypasses DNS
-mask.apple-dns.net
-canary.mask.apple-dns.net
-mask-canary.icloud.com
-mask-api.icloud.com
+! Prevent usage of Apple private relay, that bypasses DNS
+| mask.apple-dns.net
+| canary.mask.apple-dns.net
+| mask-canary.icloud.com
+| mask-api.icloud.com
 
-# misc
-reports.crashlytics.com
-sentry.io
+! misc
+| reports.crashlytics.com
+| sentry.io
 
-#
-_dns.resolver.arpa
+!
+| _dns.resolver.arpa

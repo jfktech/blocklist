@@ -22,8 +22,8 @@ that you follow the following process.
 
 Please report security vulnerabilities by filling out the following template:
 
-PROJECT: A URL to project's repository
-PUBLIC: Please let us know if this vulnerability has been made or discussed publicly already, and if so, please let us know where.
-DESCRIPTION: Please provide precise description of the security vulnerability you have found with as much information as you are able and willing to provide.
+* PROJECT: A URL to project's repository
+* PUBLIC: Please let us know if this vulnerability has been made or discussed publicly already, and if so, please let us know where.
+* DESCRIPTION: Please provide precise description of the security vulnerability you have found with as much information as you are able and willing to provide.
 
 Please send the above info, along with any other information you feel is pertinent to **[security@example.com](mailto:security@example.com)**. You will receive a response from us within 48 hours. If the issue is confirmed, we will release a patch as soon as possible depending on complexity but historically within a few days.

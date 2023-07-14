@@ -18,7 +18,7 @@ While researching, we'd like to ask you to refrain from:
 - Denial of service
 - Spamming
 - Social engineering (including phishing) of Bitwarden staff or contractors
-- Any physical attempts against Bitwarden property or data centers
+- Any physical attempts against our property or data centers
 
 ## Supported Versions
 

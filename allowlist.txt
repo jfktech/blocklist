@@ -21,7 +21,6 @@ ssc.vmware.com
 vmwareinc.demdex.net
 cdn.blueconic.net
 metrics.icloud.com
-(\.|^)cisco\.com$
 tracker.opentrackr.org
 agave.myanalytics.cdn.office.net
 nexusrules.officeapps.live.com
@@ -38,12 +37,10 @@ pow7.com
 config.fp.measure.office.com
 dc.services.visualstudio.com
 web.vortex.data.microsoft.com
-(\.|^)adultempire\.com$
 malware.wicar.org
 jnn-pa.googleapis.com
 tracker.secureboxes.net
 cdn-gl.imrworldwide.com
-(\.|^)adultdvdtalk\.com$
 t.co
 v4ncsi.msedge.net
 v6ncsi.msedge.net

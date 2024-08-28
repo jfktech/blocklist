@@ -26,6 +26,7 @@ nexusrules.officeapps.live.com
 umwatson.events.data.microsoft.com
 dns.quad9.net
 dns9.quad9.net
+dns11.quad9.net
 cdn.shortpixel.ai
 config.fp.measure.office.com
 dc.services.visualstudio.com

@@ -1,4 +1,5 @@
 whatismyip.akamai.com
+whoami.akamai.net
 syndication.twitter.com
 thepiratebay.org
 mobile.pipe.aria.microsoft.com

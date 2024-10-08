@@ -50,3 +50,4 @@ eu.collector.embertech.com
 www.portainer.io
 community.synopsys.com
 portal.portainer.io
+maxmind.com

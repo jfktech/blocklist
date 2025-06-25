@@ -1,67 +1,13 @@
 [Adblock Plus]
-! Title:
-! Description:
-! Note:
-! Homepage:
-! License:
-! Issues:
-! Expires: 1 day
-! Last modified:
-! Version:
-! Syntax: AdBlock
-! Number of entries:
-!
-||whatismyip.akamai.com^
-||whoami.akamai.net^
-||syndication.twitter.com^
-||thepiratebay.org^
-||mobile.pipe.aria.microsoft.com^
-||self.events.data.microsoft.com^
-||settings-win.data.microsoft.com^
-||v10.events.data.microsoft.com^
-||dmd.metaservices.microsoft.com^
-||browser.pipe.aria.microsoft.com^
-||iadsdk.apple.com^
-||cf.iadsdk.apple.com^
-||news.iadsdk.apple.com^
-||upload.fp.measure.office.com^
-||upload2.fp.measure.office.com^
-||fp.msedge.net^
-||g.msn.com^
-||id.google.com^
-||buff.ly^
-||se-tv4.videoplaza.tv^
-||ssc.vmware.com^
-||vmwareinc.demdex.net^
-||cdn.blueconic.net^
-||metrics.icloud.com^
-||agave.myanalytics.cdn.office.net^
-||nexusrules.officeapps.live.com^
-||umwatson.events.data.microsoft.com^
-||dns.quad9.net^
-||dns9.quad9.net^
-||dns11.quad9.net^
-||cdn.shortpixel.ai^
-||config.fp.measure.office.com^
-||dc.services.visualstudio.com^
-||web.vortex.data.microsoft.com^
-||malware.wicar.org^
-||jnn-pa.googleapis.com^
-||cdn-gl.imrworldwide.com^
-||t.co^
-||v4ncsi.msedge.net^
-||v6ncsi.msedge.net^
-||62971.bodis.com^
-||login.schibsted.com^
-||duckduckgo.com^
-||my.f5.com^
-||askubuntu.com^
-||support.anker.com^
-||alb.reddit.com^
-||feedbackws.icloud.com^
-||eu.collector.embertech.com^
-||tailscale.com^
-||www.portainer.io^
-||community.synopsys.com^
-||portal.portainer.io^
-||maxmind.com^
+! Version: 202506251920
+! Title: oisd big
+! Description: Block. Don't break.
+! Syntax: Adblock Plus Filter List
+! Entries: 189098
+! Last modified: 2025-06-25T19:20:16+0000
+! Expires: 1 hours
+! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
+! Maintainer: Stephan van Ruth
+! Homepage: https://oisd.nl
+
+||0--foodwarez.da.ru^

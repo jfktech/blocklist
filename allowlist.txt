@@ -1,4 +1,7 @@
-[Adblock Plus]^
+[Adblock Plus]
+!
+!
+
 ||whatismyip.akamai.com^
 ||whoami.akamai.net^
 ||syndication.twitter.com^

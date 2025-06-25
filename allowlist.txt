@@ -1,7 +1,16 @@
 [Adblock Plus]
+! Title:
+! Description:
+! Note:
+! Homepage:
+! License:
+! Issues:
+! Expires: 1 day
+! Last modified:
+! Version:
+! Syntax: AdBlock
+! Number of entries:
 !
-!
-
 ||whatismyip.akamai.com^
 ||whoami.akamai.net^
 ||syndication.twitter.com^

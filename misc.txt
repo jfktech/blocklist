@@ -1,10 +1,7 @@
-! Prevent usage of Apple private relay, that bypasses DNS
+[Adblock Plus]
 || mask.apple-dns.net
 | mask-canary.icloud.com
 | mask-api.icloud.com
-
-! misc
 | reports.crashlytics.com
 || sentry.io
-| _dns.resolver.arpa
 || aliyun.com

@@ -1,7 +1,7 @@
 [Adblock Plus]
-||mask.apple-dns.net
-|mask-canary.icloud.com
-|mask-api.icloud.com
-|reports.crashlytics.com
-||sentry.io
-||aliyun.com
+||mask.apple-dns.net^
+|mask-canary.icloud.com^
+|mask-api.icloud.com^
+|reports.crashlytics.com^
+||sentry.io^
+||aliyun.com^

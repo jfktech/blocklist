@@ -48,6 +48,8 @@ alb.reddit.com
 feedbackws.icloud.com
 eu.collector.embertech.com
 tailscale.com
+api.tailscale.com
+www.tailscale.com
 www.portainer.io
 community.synopsys.com
 portal.portainer.io

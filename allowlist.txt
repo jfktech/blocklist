@@ -63,6 +63,4 @@
 @@||portal.portainer.io^
 @@||maxmind.com^
 @@||tailscale.com^
-@@||api.tailscale.com^
-@@||www.tailscale.com^
-@@||login.tailscale.com^
+

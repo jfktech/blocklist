@@ -9,7 +9,7 @@
 ! Syntax: AdBlock
 ! Number of entries:
 !
-@@||@@||whatismyip.akamai.com^
+@@||whatismyip.akamai.com^
 @@||whoami.akamai.net^
 @@||syndication.twitter.com^
 @@||thepiratebay.org^

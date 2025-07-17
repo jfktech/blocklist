@@ -63,4 +63,6 @@
 @@||portal.portainer.io^
 @@||maxmind.com^
 @@||tailscale.com^
+@@||protonvpn.com^
+@@||proton.me^
 

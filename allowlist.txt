@@ -65,4 +65,4 @@
 @@||tailscale.com^
 @@||protonvpn.com^
 @@||proton.me^
-
+@@||torguard.net^

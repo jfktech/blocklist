@@ -1,6 +1,7 @@
 [Adblock Plus]
 ! Title:
 ! Description:
+! Note:
 ! Homepage:
 ! License: 
 ! Issues:

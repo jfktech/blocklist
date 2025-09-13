@@ -17,4 +17,4 @@
 ||reports.crashlytics.com^
 ||sentry.io^
 ||aliyun.com^
-|stdtime.gov.hk^
+stdtime.gov.hk^

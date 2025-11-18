@@ -15,6 +15,3 @@
 ||mask-canary.icloud.com^
 ||mask-api.icloud.com^
 ||reports.crashlytics.com^
-||sentry.io^
-||aliyun.com^
-||stdtime.gov.hk^

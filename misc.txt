@@ -15,3 +15,5 @@
 ||mask-canary.icloud.com^
 ||mask-api.icloud.com^
 ||reports.crashlytics.com^
+||aliyun.com^
+

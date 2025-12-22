@@ -68,3 +68,4 @@
 @@||protonvpn.com^
 @@||proton.me^
 @@||torguard.net^
+@@||anti-tracking.gitlab.io^

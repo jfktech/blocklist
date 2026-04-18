@@ -16,4 +16,4 @@
 ||mask-api.icloud.com^
 ||reports.crashlytics.com^
 ||aliyun.com^
-
+||_dns-sd._udp^

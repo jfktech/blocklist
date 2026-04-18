@@ -1,13 +1,13 @@
 [Adblock Plus]
-! Title:
-! Description:
+! Title: Jfktech custom allow list
+! Description: Minimal functional allowlist for enterprise + privacy balance
 ! Note:
 ! Homepage:
 ! License: 
 ! Issues:
 ! Expires: 1 day
-! Last modified:
-! Version:
+! Last modified: 2026-04-18
+! Version: 2026.04.01
 ! Syntax: AdBlock
 ! Number of entries:
 !

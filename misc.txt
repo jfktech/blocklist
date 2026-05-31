@@ -7,7 +7,7 @@
 ! Issues:
 ! Expires: 1 day
 ! Last modified: 2026-05-31
-! Version: 2026.05.01
+! Version: 2026.05.02
 ! Syntax: AdBlock
 ! Number of entries:
 !
@@ -18,3 +18,4 @@
 ||aliyun.com^
 ||_dns-sd._udp^
 ||use-application-dns.net^
+||esolver.arpa^

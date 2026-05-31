@@ -7,15 +7,18 @@
 ! Issues:
 ! Expires: 1 day
 ! Last modified: 2026-05-31
-! Version: 2026.05.02
+! Version: 2026.05.03
 ! Syntax: AdBlock
-! Number of entries:
 !
+! Apple related stuff
 ||mask.apple-dns.net^
 ||mask-canary.icloud.com^
 ||mask-api.icloud.com^
-||reports.crashlytics.com^
-||aliyun.com^
-||_dns-sd._udp^
+
+! Block special use domains to prevent clients using external resolvers
 ||use-application-dns.net^
 ||resolver.arpa^
+
+! Just stuff that bothers me
+||reports.crashlytics.com^
+||aliyun.com^

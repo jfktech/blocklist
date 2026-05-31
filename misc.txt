@@ -18,4 +18,4 @@
 ||aliyun.com^
 ||_dns-sd._udp^
 ||use-application-dns.net^
-||esolver.arpa^
+||resolver.arpa^

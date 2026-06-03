@@ -1,3 +1,15 @@
+[Adblock Plus]
+! Title: Jfktech custom block list
+! Description: DOH servers to block
+! Note:
+! Homepage:
+! License:
+! Issues:
+! Expires: 1 day
+! Last modified: 2026-06-03
+! Version: 2026.6.1
+! Syntax: AdBlock
+!
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.opendns.com^
